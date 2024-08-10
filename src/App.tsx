@@ -50,6 +50,8 @@ function App() {
   return (
     <>
       <h1>Caraua Alexandra</h1>
+      <h1>Dumitru Bianca</h1>
+     
       <div>
         {catData ? (
           <div>
